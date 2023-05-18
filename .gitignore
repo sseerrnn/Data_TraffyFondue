@@ -1,1 +1,12 @@
 spark/bangkok_traffy.csv
+transformer_pipeline/
+
+text-class/pipeline/
+
+text-class/
+
+multilabel_pretrained/
+
+multilabel_model/
+
+multilabel/
